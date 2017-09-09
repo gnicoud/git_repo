@@ -8,7 +8,7 @@ from paraview import util
 from paraview import vtk
 
 #
-# Useful functions
+# useful functions
 #
 def propagate(lisold,voisin,tagold,col):
 #
