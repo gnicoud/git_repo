@@ -232,11 +232,3 @@ other = number_of_RBC - total
 print('  # of others: {}').format(other)
   
   
- 
-#
-# Other statistics
-#
-
-#
-# Minimal distance
-#
